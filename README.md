@@ -5,3 +5,4 @@ The rate of each chocolate per piece is also mentioned in the table below .and t
 Formulas such as VLOOKUP are used to calculate the amount of cocaine present in each chocolate . 
 Total daily sales amount, and PIVOT CHARTS and TABLES charts are used to visualize the data. 
 This Excel sheet provides an easy way to track daily income and monitor the sales of Tanvi's Chocolate Store.
+
