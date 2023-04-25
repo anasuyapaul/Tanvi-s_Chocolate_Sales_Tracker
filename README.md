@@ -6,8 +6,14 @@ Formulas such as VLOOKUP are used to calculate the amount of cocaine present in 
 Total daily sales amount, and PIVOT CHARTS and TABLES charts are used to visualize the data. 
 This Excel sheet provides an easy way to track daily income and monitor the sales of Tanvi's Chocolate Store.
 
-![SNAP 1](https://user-images.githubusercontent.com/123943162/234385483-dbbd59ae-d498-42fa-91f3-4c1bae4cd0e3.png)
+THIS ARE SOME SNAPSHOTS FROM TANVI'S CHOCOLATE SALES TRACKER DATA ANALYSIS.
+SNAP1:
 ![SNAP 2](https://user-images.githubusercontent.com/123943162/234385553-d513d421-28a3-4990-a080-4a25fc897083.png)
+SNAP2:
+![SNAP 1](https://user-images.githubusercontent.com/123943162/234385848-123b45ed-a5c3-4a0a-a4ef-8446dd00d07d.png)
+SNAP3:
 ![SALES TRACKER GRAPH ](https://user-images.githubusercontent.com/123943162/234385590-64f0aa0d-c9b8-415f-b272-a0cd859600de.png)
+SNAP3:
 ![PAYMENT MODE PIVOT TABLE ](https://user-images.githubusercontent.com/123943162/234385606-ce411354-78fb-4bce-a21e-ae4ef792eda0.png)
+SNAP4:
 ![CHOCOLATE CHART](https://user-images.githubusercontent.com/123943162/234385646-dce24841-ab7c-4baf-93b8-594f6dc9c348.png)
